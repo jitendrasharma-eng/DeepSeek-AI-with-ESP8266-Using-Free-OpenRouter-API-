@@ -51,7 +51,8 @@
   <li>Edit Wi-Fi Credentials & API Key in code
     <pre><code>const char* ssid = "Your-WiFi-SSID";
 const char* password = "Your-WiFi-Password";
-const char* apiKey = "Your-OpenRouter-API-Key";</code></pre>
+const char* apiKey = "Your-OpenRouter-API-Key";
+    doc["model"] = "deepseek/deepseek-r1-0528:free";</code></pre>
   </li>
 </ol>
 
