@@ -85,4 +85,4 @@ const char* apiKey = "Your-OpenRouter-API-Key";</code></pre>
 </ul>
 
 <h2>📎 Full Tutorial</h2>
-<p>👉 <a href="#">Read Complete Guide Here</a></p>
+<p>👉 <a href="#">Read Complete .......</a></p>
