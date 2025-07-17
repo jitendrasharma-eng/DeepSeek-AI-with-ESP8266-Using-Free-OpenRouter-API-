@@ -6,11 +6,11 @@
 #include <ArduinoJson.h>
 
 // WiFi Credentials
-const char* ssid = "espioT";       // WiFi SSID remains unchanged
-const char* password = "1234_ioT";   // WiFi password remains unchanged
+const char* ssid = "..........";       // WiFi SSID remains unchanged
+const char* password = "..........";   // WiFi password remains unchanged
 
 // OpenRouter API Key
-const char* apiKey = "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";  // API key remains unchanged
+const char* apiKey = "..........";  // API key remains unchanged
 
 // OpenRouter API Endpoint
 const char* server = "openrouter.ai";   // OpenRouter's API server
@@ -69,7 +69,7 @@ void askOpenRouterAI(String question) {
 
   // Create JSON request
   DynamicJsonDocument doc(512);
-  doc["model"] = "deepseek/deepseek-r1-0528:free";  // Use a valid model from OpenRouter
+  doc["model"] = "..........";  // Use a valid model from OpenRouter
   JsonArray messages = doc.createNestedArray("messages");
   JsonObject systemMessage = messages.createNestedObject();
   systemMessage["role"] = "system";
