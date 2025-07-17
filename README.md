@@ -41,7 +41,7 @@
 <h2>📂 Project Setup</h2>
 <ol>
   <li>Clone this repository
-    <pre><code>https://github.com/jitendrasharma-eng/DeepSeek-AI-with-ESP8266-Using-Free-OpenRouter-API-</code></pre>
+    <pre><code>git clone https://github.com/YourUsername/ESP8266-DeepSeek-AI.git</code></pre>
   </li>
   <li>Open the .ino file in Arduino IDE</li>
   <li>Install required libraries
