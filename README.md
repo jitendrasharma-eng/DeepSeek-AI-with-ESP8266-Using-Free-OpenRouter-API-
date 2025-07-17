@@ -52,7 +52,7 @@
     <pre><code>const char* ssid = "Your-WiFi-SSID";
 const char* password = "Your-WiFi-Password";
 const char* apiKey = "Your-OpenRouter-API-Key";
-    doc["model"] = "deepseek/deepseek-r1-0528:free";</code></pre>
+doc["model"] = "deepseek/deepseek-r1-0528:free";</code></pre>
   </li>
 </ol>
 
